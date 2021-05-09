@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HidocTest</string>
+    <string name="search_hint">Search books..</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_books">We couldn\'t find any books matching your query</string>
+    <string name="written_by">Written by:</string>
+    <string name="book_category">Category</string>
+    <string name="book_authors">Author</string>
+    <string name="buy">Buy Now</string>
+    <string name="preview">Preview Book</string>
+</resources>

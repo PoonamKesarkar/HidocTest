@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_topheadings"
+        android:icon="@drawable/ic_news"
+        android:title="TopHeadings"/>
+
+    <item
+        android:id="@+id/navigation_politics"
+        android:icon="@drawable/ic_news"
+        android:title="Politics"/>
+    <item
+        android:id="@+id/navigation_entertainment"
+        android:icon="@drawable/ic_news"
+        android:title="Entertainment"/>
+
+</menu>
